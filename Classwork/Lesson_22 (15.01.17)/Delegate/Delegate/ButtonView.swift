@@ -9,9 +9,32 @@
 import Foundation
 import UIKit
 
+protocol ClickDelegate: class {
+    func clickButton()
+}
+
 class Button: UIView {
-    @IBAction func tupButton(_ sender: Any) {
-    }
     
+    @IBOutlet var button: UIButton!
+    weak var delegate: ClickDelegate?
+    
+    override init(frame: CGRect) {
+        button = UIButton()
+        super.init(frame: frame)
+        
+        self.addSubview(button)
     
 }
+    
+    @objc func tapped() {
+        delegate?.clickButton()
+    }
+
+    
+    required init?(coder aDecoder: NSCoder) {
+        fatalError("init(coder:) has not been implemented")
+    }
+    
+}
+
+

@@ -32,6 +32,9 @@
                                     </button>
                                 </subviews>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <connections>
+                                    <outlet property="button" destination="kby-k1-7um" id="Nme-de-jwf"/>
+                                </connections>
                             </view>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="7fv-3E-zNI" customClass="Label" customModule="Delegate" customModuleProvider="target">
                                 <rect key="frame" x="11" y="320" width="349" height="320"/>

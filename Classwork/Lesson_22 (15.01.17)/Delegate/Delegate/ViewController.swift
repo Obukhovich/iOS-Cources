@@ -9,10 +9,15 @@
 import UIKit
 
 class ViewController: UIViewController {
+    var button = Button()
+    var label = Label()
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        view.addSubview(button)
+        view.addSubview(label)
+        
+        button.delegate = label
     }
 
     override func didReceiveMemoryWarning() {
@@ -20,4 +25,4 @@ class ViewController: UIViewController {
         // Dispose of any resources that can be recreated.
     }
 
-} // тут могут быть только свойства
+}
