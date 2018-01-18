@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Screens/ViewController.swift"
+            timestampString = "537997067.394853"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Screens.ViewController.labelOne.getter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Screens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurobukhovich/Desktop/IT%20Academy/iOS-Cources/Classwork/Lesson_23%20(17.01.17)/Screens/Screens/ViewController.swift"
+                  timestampString = "537997067.4039921"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "109">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Screens.ViewController.labelOne.setter : Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "Screens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurobukhovich/Desktop/IT%20Academy/iOS-Cources/Classwork/Lesson_23%20(17.01.17)/Screens/Screens/ViewController.swift"
+                  timestampString = "537997067.407881"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "112">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Screens.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; Screens.ViewController"
+                  moduleName = "Screens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurobukhovich/Desktop/IT%20Academy/iOS-Cources/Classwork/Lesson_23%20(17.01.17)/Screens/Screens/ViewController.swift"
+                  timestampString = "537997067.412569"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "285">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Screens.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;Screens.ViewController&gt;"
+                  moduleName = "Screens"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/arthurobukhovich/Desktop/IT%20Academy/iOS-Cources/Classwork/Lesson_23%20(17.01.17)/Screens/Screens/ViewController.swift"
+                  timestampString = "537997067.4181449"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "212">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
